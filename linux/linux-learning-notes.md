@@ -43,7 +43,6 @@ Linux has a hierarchical filesystem that starts at the root directory, represent
 
 Unlike Windows, Linux does not normally organize its filesystem around separate drive letters.
 
-![Filesystem image](static/images/linux-filesystem-tree.jpg)
 
 ### Important directories
 
@@ -66,6 +65,9 @@ Unlike Windows, Linux does not normally organize its filesystem around separate 
 | `/media` | Common mount location for removable media |
 | `/mnt` | Common temporary mount point for filesystems |
 | `/opt` | Optional or third-party application software |
+
+
+![Filesystem image](/static/images/linux-filesystem-tree.jpg)
 
 ### Understanding paths
 
@@ -734,7 +736,7 @@ journalctl -p err -b
 
 ---
 
-![Commands cheatsheet](static/images/linux-command-cheatsheet.jpg)
+![Commands cheatsheet](/static/images/linux-command-cheetsheet.jpg)
 
 ---
 
